@@ -1,12 +1,5 @@
 # The layout text of site
 
-# ----- Commons label -----
-
-layout:
-  post: Post
-  category: Category
-  tag: Tag
-
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
