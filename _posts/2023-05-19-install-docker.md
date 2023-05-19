@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Containerize Everything With Docker"
-date: 2023-05-18 10:00:00 -0500
-categories: docker
+date: 2023-05-19 01:30:00 -0500
+categories: Docker
 tags: docker linux
 ---
 
