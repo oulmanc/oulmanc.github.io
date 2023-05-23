@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Install Debian "A Full Tutorial""
+title: "How to Install Debian: A Full Tutorial"
 date: 2023-05-22 00:30:00 -0500
 categories: Linux
 tags: debian linux servers
